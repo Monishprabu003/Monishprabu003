@@ -1,4 +1,4 @@
-<!-- 💼 Monish Prabu B - Modernized Full GitHub Profile README -->
+<!-- 💼 Monish Prabu B -- GitHub Profile README -->
 
 # 👋 Hi, I'm Monish Prabu B  
 
