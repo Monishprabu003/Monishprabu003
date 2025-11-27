@@ -122,5 +122,3 @@ I enjoy building secure, scalable, and real-world applications — from automati
 
 ---
 
-### ✨ Fun Fact  
-> "I love creating things that connect the digital and physical world — from smart automation scripts to secure web solutions."
