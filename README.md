@@ -26,7 +26,7 @@ I enjoy building secure, scalable, and real-world applications — from automati
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔐 **SafePipe – Secret Leak Detection & Alerting in CI/CD Pipelines** *(Jun 2025 – Nov 2025)* | 🛡️ Built a DevOps & cloud-based tool to detect and prevent secret leaks across CI/CD pipelines. ⚠️ Implemented real-time alerting, reporting, Dockerized deployment, and scalable cloud integration. | 🐍 Python • 🗄️ SQLite • 🖥️ Streamlit • 🎨 Tailwind CSS • 🤖 LangChain • 🔧 Jenkins • ☁️ Render • 🐳 Docker |
-| 🕵️ **Fuzzinator – Web Fuzzing Tool** *(Jan 2025 – Apr 2025)* | 🔍 Automated web fuzzing tool with enhanced detection for XSS, SQLi, etc. ⚡ Added multithreading, reporting modules, and alerting to improve security visibility. | 🐍 Python • 🪟 Tkinter (GUI) • 🔁 Multithreading • 📜 Logging • 🐳 Docker |
+| 🕵️ **Fuzzinator – Web Fuzzing Tool** *(Jan 2025 – Apr 2025)* | 🔍 Automated web fuzzing tool with enhanced detection for XSS, SQLi, etc. ⚡ Added multithreading, reporting modules, and alerting to improve security visibility. | 🐍 Python • 🪟 React •🎨 Tailwind CSS • Axios • 🔁 Multithreading • 📜 Logging • 🐳 Docker • ☁️ Render|
 
 ---
 
