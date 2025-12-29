@@ -22,40 +22,14 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🔐 SafePipe – Secret Leak Detection & Alerting in CI/CD Pipelines  
-*Jun 2025 – Nov 2025*
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🌐 **LifeOS** | Modular full-stack life management platform integrating health, finance, habits, goals, and relationships with AI-powered productivity insights. | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) |
+| 🔐 **SafePipe** | Backend-driven CI/CD security tool for automated secret leak detection with alerting, reporting, and containerized deployment. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white) |
+| 🕵️ **Fuzzinator** | Automated web fuzzing tool for detecting vulnerabilities like XSS and SQL injection using multithreaded scanning and structured reporting. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Security](https://img.shields.io/badge/Web_Security-8B0000?style=for-the-badge) |
 
-- Developed a **backend-driven CI/CD security platform** to detect and prevent secret leaks.  
-- Built **Python-based scanning logic** integrated with automated workflows.  
-- Implemented **alerting and reporting mechanisms** to highlight risk severity.  
-- Containerized the application to support **scalable deployment**.
-
-**Tech Stack:** Python, SQLite, Streamlit, Docker  
-
----
-
-### 🕵️ Fuzzinator – Web Fuzzing Tool  
-*Jan 2025 – Apr 2025*
-
-- Developed an **automated web fuzzing tool** to detect vulnerabilities such as XSS and SQL injection.  
-- Implemented **custom fuzzing payloads and detection logic**.  
-- Improved performance using **multithreaded scanning** and structured logging.  
-- Generated backend reports with **clear security findings**.
-
-**Tech Stack:** Python, Flask, React, Tailwind CSS, Docker  
-
----
-
-### 🌐 LifeOS – Personal Life Management Platform *(Ongoing)*  
-
-- Developing a **modular full-stack application** integrating health, finance, habits, goals, and relationships.  
-- Implementing a **centralized backend engine** for event-driven, real-time metrics.  
-- Integrating an **AI-powered copilot** to provide personalized productivity insights.  
-- Building a **responsive dashboard** with REST APIs and interactive visualizations.
-
-**Tech Stack:** MERN Stack (React, Node.js, Express, MongoDB), REST APIs, OpenAI API, Docker  
 
 ---
 
