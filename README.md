@@ -61,14 +61,13 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 
 ## 🛠️ Tech Stack  
 
-### 💻 Programming Languages  
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-- Python  
-- Java (Core)  
-- JavaScript (Learning)
 
 ---
 
