@@ -1,89 +1,119 @@
-<!-- 💼 Monish Prabu B -- GitHub Profile README -->
+<!-- 💼 Monish Prabu B — GitHub Profile README -->
 
 # 👋 Hi, I'm Monish Prabu B  
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Computer+Sciene+Student;Python+Developer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=Software+Developer;Python+Backend+Developer;Full-Stack+MERN+Learner;DevOps+Exposure" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
+## 👨‍💻 About Me  
 
-I'm a passionate and driven **Cyber Security student & Python Developer** with a strong interest in **DevSecOps, Cloud, Linux, and Full-Stack Development**.  
-I enjoy building secure, scalable, and real-world applications — from automation scripts to web and mobile solutions.  
+I'm a **Software Developer and Cyber Security undergraduate** with hands-on experience in **Python-based backend development, REST API design, and full-stack applications**.  
+I enjoy building **scalable software systems**, integrating databases, and developing real-world projects, with exposure to **DevOps practices** for automation and secure delivery.
 
-- 🎓 Pursuing **B.E. in Cyber Security**  
-- 💻 Skilled in **Python, JavaScript, React, and DevOps tools**  
-- 📫 Reach me at **monishprabub23cys@srishakthi.ac.in**  
-
----
-
-### 🚀 Featured Projects  
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔐 **SafePipe – Secret Leak Detection & Alerting in CI/CD Pipelines** *(Jun 2025 – Nov 2025)* | 🛡️ Built a DevOps & cloud-based tool to detect and prevent secret leaks across CI/CD pipelines. ⚠️ Implemented real-time alerting, reporting, Dockerized deployment, and scalable cloud integration. | 🐍 Python • 🗄️ SQLite • 🖥️ Streamlit • 🎨 Tailwind CSS • 🤖 LangChain • 🔧 Jenkins • ☁️ Render • 🐳 Docker |
-| 🕵️ **Fuzzinator – Web Fuzzing Tool** *(Jan 2025 – Apr 2025)* | 🔍 Automated web fuzzing tool with enhanced detection for XSS, SQLi, etc. ⚡ Added multithreading, reporting modules, and alerting to improve security visibility. | 🐍 Python • Flask • 🪟 React •🎨 Tailwind CSS • Axios • 🔁 Multithreading • 📜 Logging • 🐳 Docker • ☁️ Render|
+- 🎓 Pursuing **B.E. in Cyber Security**
+- 💻 Focused on **Python, Java, Django, FastAPI, and MERN stack**
+- ⚙️ Experience building **backend-driven applications with DevOps exposure**
+- 📫 Reach me at **monishprabub23cys@srishakthi.ac.in**
 
 ---
 
-### 🛠️ Tech Stack  
+## 🚀 Featured Projects  
 
-#### 💻 Programming Languages  
+### 🔐 SafePipe – Secret Leak Detection & Alerting in CI/CD Pipelines  
+*Jun 2025 – Nov 2025*
+
+- Developed a **backend-driven CI/CD security platform** to detect and prevent secret leaks.  
+- Built **Python-based scanning logic** integrated with automated workflows.  
+- Implemented **alerting and reporting mechanisms** to highlight risk severity.  
+- Containerized the application to support **scalable deployment**.
+
+**Tech Stack:** Python, SQLite, Streamlit, Docker  
+
+---
+
+### 🕵️ Fuzzinator – Web Fuzzing Tool  
+*Jan 2025 – Apr 2025*
+
+- Developed an **automated web fuzzing tool** to detect vulnerabilities such as XSS and SQL injection.  
+- Implemented **custom fuzzing payloads and detection logic**.  
+- Improved performance using **multithreaded scanning** and structured logging.  
+- Generated backend reports with **clear security findings**.
+
+**Tech Stack:** Python, Flask, React, Tailwind CSS, Docker  
+
+---
+
+### 🌐 LifeOS – Personal Life Management Platform *(Ongoing)*  
+
+- Developing a **modular full-stack application** integrating health, finance, habits, goals, and relationships.  
+- Implementing a **centralized backend engine** for event-driven, real-time metrics.  
+- Integrating an **AI-powered copilot** to provide personalized productivity insights.  
+- Building a **responsive dashboard** with REST APIs and interactive visualizations.
+
+**Tech Stack:** MERN Stack (React, Node.js, Express, MongoDB), REST APIs, OpenAI API, Docker  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript" /><br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
-#### 🌐 Web Development  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,javascript" /><br><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-</p>
-
-#### ⚙️ Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,terraform,azure,grafana,streamlit,wireshark,burpsuite,metasploit,jenkins,render" /><br><br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-0078D7?logo=wireshark&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BurpSuite-FF6C37?logo=burpsuite&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-6F3DFF?logo=metasploit&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=for-the-badge"/>
-</p>
+- Python  
+- Java (Core)  
+- JavaScript (Learning)
 
 ---
 
-### 🧠 Currently Exploring  
-- **DevOps Tools** (Docker, Kubernetes, Terraform)  
-- **Cloud Platforms** (Azure, AWS, GCP)  
-- **Python Automation**  
-- **Streamlit App Development**  
-- **CI/CD Pipelines**  
-- **Web Security**  
-- **Linux Internals**
+### 🌐 Web & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+- HTML, CSS  
+- Django, FastAPI, Flask  
+- React (MERN stack)
 
 ---
 
-### 📊 GitHub Stats  
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+- PostgreSQL  
+- MongoDB  
+
+---
+
+### ⚙️ Tools & DevOps  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+- Git & GitHub  
+- Docker & Docker Compose  
+
+---
+
+## 🧠 Currently Exploring  
+
+- Backend API development with Django & FastAPI  
+- Database-integrated REST services  
+- Full-stack application workflows (MERN)  
+- Authentication and secure API design  
+- Containerized application development  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Monishprabu003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -94,13 +124,9 @@ I enjoy building secure, scalable, and real-world applications — from automati
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Monishprabu003&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Monishprabu003&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
-### 🔗 Connect With Me  
+## 🔗 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/monish-prabu/" target="_blank">
@@ -121,4 +147,3 @@ I enjoy building secure, scalable, and real-world applications — from automati
 </p>
 
 ---
-
