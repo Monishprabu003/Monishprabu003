@@ -109,7 +109,10 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Monishprabu003&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
+
+# LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/u/Macz_moni_/" target="_blank">
     <img src="https://leetcode-stats.vercel.app/api?username=Macz_moni_&theme=dark&show_icons=true" alt="LeetCode Stats - Monish" />
