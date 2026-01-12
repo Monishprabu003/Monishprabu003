@@ -124,7 +124,7 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 
 <p align="center">
   <b>👨‍💻 LeetCode Profile:</b>
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">Tharun Kumar</a>
+  <a href="https://leetcode.com/u/Macz_moni_/" target="_blank">Monish Prabu B </a>
 </p>
 
 ---
