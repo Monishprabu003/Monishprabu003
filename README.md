@@ -109,26 +109,22 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Monishprabu003&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
-## 💻 LeetCode Stats & Streak  
-
 <p align="center">
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
-    <img src="https://leetcode-stats.vercel.app/api?username=lgsNroNVgg&theme=dark&show_icons=true" alt="LeetCode Stats - Tharun Kumar" />
+  <a href="https://leetcode.com/u/Macz_moni_/" target="_blank">
+    <img src="https://leetcode-stats.vercel.app/api?username=Macz_moni_&theme=dark&show_icons=true" alt="LeetCode Stats - Monish" />
   </a>
-  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/lgsNroNVgg?theme=dark" alt="LeetCode Card - Tharun Kumar" />
+  <a href="https://leetcode.com/u/Macz_moni_/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Macz_moni_?theme=dark" alt="LeetCode Card - Monish" />
   </a>
 </p>
 
 <p align="center">
   <b>👨‍💻 LeetCode Profile:</b>
-  <a href="https://leetcode.com/u/Macz_moni_/" target="_blank">Monish Prabu B </a>
+  <a href="https://leetcode.com/u/Macz_moni_/" target="_blank">Monish's LeetCode</a>
 </p>
 
----
-
+----
 ## 🔗 Connect With Me  
 
 <p align="center">
