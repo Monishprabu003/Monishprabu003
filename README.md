@@ -111,6 +111,23 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 </p>
 
 ---
+## 💻 LeetCode Stats & Streak  
+
+<p align="center">
+  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
+    <img src="https://leetcode-stats.vercel.app/api?username=lgsNroNVgg&theme=dark&show_icons=true" alt="LeetCode Stats - Tharun Kumar" />
+  </a>
+  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/lgsNroNVgg?theme=dark" alt="LeetCode Card - Tharun Kumar" />
+  </a>
+</p>
+
+<p align="center">
+  <b>👨‍💻 LeetCode Profile:</b>
+  <a href="https://leetcode.com/u/lgsNroNVgg/" target="_blank">Tharun Kumar</a>
+</p>
+
+---
 
 ## 🔗 Connect With Me  
 
