@@ -16,7 +16,7 @@ I'm a **Software Developer and Cyber Security undergraduate** with hands-on expe
 I enjoy building **scalable software systems**, integrating databases, and developing real-world projects, with exposure to **DevOps practices** for automation and secure delivery.
 
 - 🎓 Pursuing **B.E. in Cyber Security**
-- 💻 Focused on **Python, Java, Django, FastAPI, and MERN stack**
+- 💻 Focused on **Python, Javascript, Django, FastAPI, and MERN stack**
 - ⚙️ Experience building **backend-driven applications with DevOps exposure**
 - 📫 Reach me at **monishprabub23cys@srishakthi.ac.in**
 
