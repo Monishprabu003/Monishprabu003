@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me  
 
-I'm a **Software Developer and Cyber Security undergraduate** with hands-on experience in **Python-based backend development, REST API design, and full-stack applications**.  
+I'm a **Software Developer and Cyber Security Student** with hands-on experience in **Python-based backend development, REST API design, and full-stack applications**.  
 I enjoy building **scalable software systems**, integrating databases, and developing real-world projects, with exposure to **DevOps practices** for automation and secure delivery.
 
 - 🎓 Pursuing **B.E. in CSE(Cyber Security)**
 - 💻 Focused on **Python, Javascript, Django, FastAPI,Flask and MERN stack**
-- ⚙️ Experience building **backend-driven applications with DevOps exposure**
+- ⚙️ Experience building **Backend-driven applications with DevOps exposure**
 - 📫 Reach me at **monishprabub23cys@srishakthi.ac.in**
 
 ---
