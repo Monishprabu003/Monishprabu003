@@ -82,9 +82,10 @@ I enjoy building **scalable software systems**, integrating databases, and devel
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 </p> 
 
 ---
