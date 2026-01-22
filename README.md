@@ -101,7 +101,6 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Monishprabu003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishprabu003&layout=compact&theme=tokyonight&hide_border=true" />
@@ -111,6 +110,9 @@ I enjoy building **scalable software systems**, integrating databases, and devel
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Monishprabu003&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Monishprabu003&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 # LeetCode Stats
