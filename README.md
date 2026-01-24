@@ -151,9 +151,8 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=where+intelligence+meets+interface" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Where+Intelligence+Meets+Interface!.." 
       alt="AI meets Interface Typing Animation" 
     />
   </a>
 </p>
----
