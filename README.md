@@ -102,6 +102,15 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 
 ## 📊 GitHub Stats  
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Monishprabu003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monishprabu003&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Monishprabu003&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Monishprabu003&theme=dark&hide_border=true&background=0D1117&ring=F4A261&fire=F4A261&currStreakLabel=F4A261" 
     alt="GitHub Streak Stats - Monishprabu003"
