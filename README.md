@@ -17,7 +17,7 @@ I enjoy building **scalable software systems**, integrating databases, and devel
 
 - 🎓 Pursuing **B.E. in CSE(Cyber Security)**
 - 💻 Focused on **Python, Javascript, Django, FastAPI,Flask and MERN stack**
-- ⚙️ Experience building **Backend-driven applications with Devops concepts**
+- ⚙️ Experience building **Backend-driven applications & Devops Driven concepts**
 - 📫 Reach me at **monishprabub23cys@srishakthi.ac.in**
 
 ---
